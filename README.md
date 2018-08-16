@@ -180,6 +180,7 @@ _It is all about the looks, apply some style._
 
 * [Home Assistant Control Panel](https://reformedreality.com/home-assistant-control-panel) - Simple to use, easy to install.
 * [TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard.
+* [Project Rotini](https://community.projectrotini.com/) - An [App](https://play.google.com/store/apps/details?id=com.projectrotini.beta&hl=en_US) Based Dashboard (Beta).
 
 ### Lovelace UI
 
@@ -236,6 +237,7 @@ could also build them yourself!_
 * [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) - In inexpensive RGB bulb that works on WiFi.
 * [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) - Bidirectional with IR and 433mhz using ESP8266 and MQTT.
 * [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) - Automate your window blinds using an ESP8266, a servo and MQTT.
+* [Doorbell via Wemos D1 Mini](https://github.com/tIsGoud/Doorbell-via-Wemos) - Send an MQTT message when your doorbell is pressed.
 * [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - A Hackster channel with multiple DIY projects.
 
 ## Online Resources
